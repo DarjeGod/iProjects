@@ -1,0 +1,11 @@
+*{
+    background-color: aqua;
+}
+
+#task-input {
+    padding: 10px 10px 10px 10px;
+  }
+  
+  #task-button {
+    padding: 10px 10px 10px 10px;
+  }
